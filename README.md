@@ -26,7 +26,7 @@ The goal is to provide clear, insightful, and interactive dashboards to explore 
 - It has drill through option to view more details of particular country
  ![Overview Dashboard](https://github.com/birendra-bit/Global-Economic-Indicator/blob/main/visualization/overview%20dashboard.png)
 
-![Drill Through Info](https://github.com/birendra-bit/Global-Economic-Indicator/blob/main/visualization/meta-data.png)
+![Drill Through Info](https://github.com/birendra-bit/Global-Economic-Indicator/blob/main/visualization/drill%20through%20information.png)
 
 ### 2. MetaData
 - it gives key information about the data
