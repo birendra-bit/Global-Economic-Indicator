@@ -24,15 +24,18 @@ The goal is to provide clear, insightful, and interactive dashboards to explore 
 - Bar chart illustrates country count over the region
 - Table chart with information like population density, gdp per capita focusing on year 2020
 - It has drill through option to view more details of particular country
+![Overview dashboard] (https://github.com/birendra-bit/Global-Economic-Indicator/blob/main/visualization/overview%20dashboard.png)
+
+![Drill Through Info] ()
 
 ### 2. MetaData
 - it gives key information about the data
-
+![MetaData](https://github.com/birendra-bit/Global-Economic-Indicator/blob/main/visualization/meta-data.png)
 # Instruction for Deployment
 ### Open Power BI File
 - Download the .pbix file from this repository
 - Open it using Power BI Desktop
-- Explore dashboards using filters and visuals\
+- Explore dashboards using filters and visuals
 
 # Folder structure
-![Folder Structure](https://github.com/birendra-bit/us-population-and-gdp-visualization/blob/main/visuals/folder%20structure.png)
+![Folder Structure](https://github.com/birendra-bit/Global-Economic-Indicator/blob/main/visualization/folder-structure.png)
